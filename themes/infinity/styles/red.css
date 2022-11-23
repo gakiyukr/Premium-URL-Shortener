@@ -1,0 +1,187 @@
+/*
+  Theme Name: Infinity [Red]
+  Author: Themelated
+  Author URI: https://goo.gl/9gzLHY
+  Version: 1.0.2
+  Date: 01-01-2018
+  Copyright: This theme is designed to be used only with a valid license of Premium URL Shortener and cannot be resold or reused in any other applications without prior consent from the author. You are however free to customize this theme for your own purpose. Please contact the author, if needed, to clarify.
+
+  This file and formating is used to identify each theme and provide information about the author and version. Keep the formating as clean as possible.
+*/
+body {
+  background-color: #e8e8e8;
+}
+body a {
+  color: #000000;
+}
+body a:hover {
+  color: #e6505f;
+}
+body a#back-to-top {
+  background: #000000;
+  color: #fff;
+}
+.btn-primary {
+  background-color: #e02336;
+  border-color: #e02336;
+}
+.btn-primary:hover {
+  background-color: #e3394a;
+  border-color: #e3394a;
+}
+.btn-primary:active, .btn-primary:focus {
+  background-color: #cd1d2f;
+  border-color: #cd1d2f;
+  box-shadow: 0 0 0 0.2rem rgba(224, 36, 54, 0.42);
+}
+header .navbar .navbar-header .navbar-brand:hover {
+  color: #e02336;
+}
+header .navbar .nav li a {
+  color: #fff;
+}
+header .navbar .nav li a:hover {
+  color: #e02336;
+}
+header.activehead .navbar .nav li a:hover, header.activeheadmenu .navbar .nav li a:hover, header.activeheadmenu2 .navbar .nav li a:hover {
+    color: #e02336;
+}
+#infinity-feature .feature-border {
+    background: #e02336;
+}
+.infinity-facts i {
+    color: #e02336;
+}
+.infinity-cta:before {
+    background-image: linear-gradient(to right, #bc1b2a,#e02336);
+}
+header .navbar .nav li a.active {
+	background: -webkit-linear-gradient(left, #bc1b2a,#e02336);
+    background: -o-linear-gradient(right, #bc1b2a,#e02336);
+    background: -moz-linear-gradient(right, #bc1b2a,#e02336);
+    background: linear-gradient(to right, #bc1b2a,#e02336) repeat scroll 0% 0%;
+  color: #fff;
+}
+#main-form .main-form .main-button {
+    background-color: #e02336;
+}
+.spinner-container-parent {
+    background-color: #e02336;
+}
+section .centered.form form.live_form input:focus {
+    border-color: #e02336 !important;
+}
+section .centered.form form.live_form input:focus + i.zmdi {
+    color: #e02336;
+}
+section .sidebar .nav-sidebar a.active {
+    background: #e02336;
+}
+.short-multi-option li a.current {
+    border-color: #e02336 !important;
+    background: #e02336 !important;
+}
+.label-primary {
+    background-color: #e02336;
+}
+section .content .main-content .toolbox .search-group input:focus {
+    border-color: #e02336;
+}
+section .content .main-content .toolbox .search-group input:focus + i.zmdi {
+    color: #e02336;
+}
+ul.form_opt li a.current {
+    background: #e02336;
+    border-color: #e02336;
+}
+.setting-panel input:focus {
+    border-color: #e02336;
+}
+.setting-panel-mdbtn {
+    color: #e02336;
+    background-color: #ffb3bb;
+    border-color: #ffb3bb;
+}
+.setting-panel-mdbtn:hover {
+    box-shadow: 0 0 11px rgb(227, 57, 74) !important;
+}
+.setting-panel-mdbtn:focus {
+    box-shadow: 0 0 0 2px #fff, 0 0 0 4px rgba(224, 36, 54, 0.42) !important;
+}
+section .content .url-list ul.toggle li:hover > a {
+    color: #e02336;
+}
+#offnavmenu .progress .progress-bar {
+    background: -webkit-linear-gradient(left, #ff7600,#e02336);
+    background: -o-linear-gradient(right, #ff7600,#e02336);
+    background: -moz-linear-gradient(right, #ff7600,#e02336);
+    background-image: linear-gradient(to right, #ff7600 0%, #e02336 100%);
+}
+section .content #widgets ul li a {
+    color: #e02336;
+}
+body .inline-copy {
+    background: #e02336;
+    border: 1px solid #e02336;
+}
+body .inline-copy:before {
+    border-right-color: #e02336;
+}
+.matbtn, .matbtn:hover, .matbtn:focus, .matbtn:active {
+    color: #e02336;
+}
+.infinity-fields input:focus, .infinity-fields textarea:focus {
+    border-color: #e02336;
+}
+.pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus {
+    background-color: #e02336;
+    border-color: #e02336;
+}
+.pagination>li>a, .pagination>li>span {
+    color: #e02336;
+}
+.infinity-fields form button {
+    color: #e02336;
+    background-color: #ffb3bb;
+    border-color: #ffb3bb;
+}
+.infinity-fields form button:focus, .infinity-profile-nav .mdbtn:focus {
+    box-shadow: 0 0 0 2px #fff, 0 0 0 4px rgba(224, 36, 54, 0.42) !important;
+}
+.infinity-profile-nav .pro-mdbtn {
+    border: 1px solid #e02336 !important;
+    color: #e02336 !important;
+    background-color: white;
+}
+#infinity-breadcrumb {
+    background: -webkit-linear-gradient(left, #bc1b2a,#e02336);
+    background: -o-linear-gradient(right, #bc1b2a,#e02336);
+    background: -moz-linear-gradient(right, #bc1b2a,#e02336);
+    background: linear-gradient(to right, #bc1b2a,#e02336) repeat scroll 0% 0%;
+}
+#infinity-splash .splash-mdbtn-blue {
+    color: #e02336;
+    background-color: #d8efc1;
+    border-color: #c7e4aa;
+}
+#infinity-splash .splash-mdbtn-blue:focus {
+    box-shadow: 0 0 0 2px #fff, 0 0 0 4px rgba(224, 36, 54, 0.42) !important;
+}
+.infinity-url-stats .btn-group .chart_data.active {
+    box-shadow: 0 2px #e02336;
+    color: #e02336;
+}
+.infinity-country-panel #country .jvectormap-zoomin, .infinity-country-panel #country .jvectormap-zoomout {
+    background: #e02336 !important;
+}
+.round-check input[type="checkbox"]:checked + label:before {
+    background: #e02336;
+    border-color: transparent;
+}
+footer.nousrfoot a:hover {
+    color: #e6e6e6;
+}
+body .pace .pace-progress {
+    background: #e02336;
+    box-shadow: 0 0 1px #e02336;
+}
