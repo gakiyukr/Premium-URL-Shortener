@@ -1,7 +1,7 @@
 # Premium URL Shortener 短链
 
 ## 安装教程
-[传送门](https://www.gakiyukr.net/?p=259)
+[传送门](https://www.gakiyukr.net/archives/259)
 
 ## 版权声明
 版权归原作者所有，本仓库只是整理汉化文件，并提供分发服务。
